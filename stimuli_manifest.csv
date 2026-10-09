@@ -1,0 +1,19 @@
+clip_id,nymeria_sequence_id,start_sec,end_sec,duration_sec,conditions,ground_truth_gender,ground_truth_age_group,ground_truth_height_cm,ground_truth_weight_kg,ground_truth_ethnicity,height_normalization
+alan_burns_5_20.mp4,alan_burns,5,20,15,"upper_body,full_body",Female,25-30,151,81,Hispanic or Latino,uniform_scale_max_dim_1.8
+bobby_griffith_30_45.mp4,bobby_griffith,30,45,15,"upper_body,full_body",Female,25-30,161,99,White,uniform_scale_max_dim_1.8
+brittney_powell_5_20.mp4,brittney_powell,5,20,15,"upper_body,full_body",Female,36-40,183,80.3,White,uniform_scale_max_dim_1.8
+carrie_robinson_15_30.mp4,carrie_robinson,15,30,15,"upper_body,full_body",Male,41-45,170,90.7,White,uniform_scale_max_dim_1.8
+christopher_green_12_27.mp4,christopher_green,12,27,15,"upper_body,full_body",Female,18-24,149,50,Asian,uniform_scale_max_dim_1.8
+christopher_martinez_5_20.mp4,christopher_martinez,5,20,15,"upper_body,full_body",Female,18-24,182,64,Asian,uniform_scale_max_dim_1.8
+daniel_gregory_7_22.mp4,daniel_gregory,7,22,15,"upper_body,full_body",Female,41-45,168,59,White,uniform_scale_max_dim_1.8
+david_vega_4_19.mp4,david_vega,4,19,15,"upper_body,full_body",Female,36-40,181,66,White,uniform_scale_max_dim_1.8
+dawn_heath_25_40.mp4,dawn_heath,25,40,15,"upper_body,full_body",Male,25-30,169,81,Hispanic or Latino,uniform_scale_max_dim_1.8
+debra_melton_3_18.mp4,debra_melton,3,18,15,"upper_body,full_body",Male,31-35,155,59,Black or African American,uniform_scale_max_dim_1.8
+eric_martin_5_20.mp4,eric_martin,5,20,15,"upper_body,full_body",Female,31-35,163,49,Asian,uniform_scale_max_dim_1.8
+george_james_112_127.mp4,george_james,112,127,15,"upper_body,full_body",Male,18-24,159,50,Asian,uniform_scale_max_dim_1.8
+jason_vaughn_5_20.mp4,jason_vaughn,5,20,15,"upper_body,full_body",Female,46-50,153,73,Hispanic or Latino,uniform_scale_max_dim_1.8
+jerry_shaffer_500_515.mp4,jerry_shaffer,500,515,15,"upper_body,full_body",Male,41-45,170,69,Asian,uniform_scale_max_dim_1.8
+kurt_young_961_976.mp4,kurt_young,961,976,15,"upper_body,full_body",Male,46-50,175,73,Black or African American,uniform_scale_max_dim_1.8
+mary_cook_0_15.mp4,mary_cook,0,15,15,"upper_body,full_body",Male,36-40,196,79,Black or African American,uniform_scale_max_dim_1.8
+nicholas_hicks_5_20.mp4,nicholas_hicks,5,20,15,"upper_body,full_body",Male,31-35,170,71,Hispanic or Latino,uniform_scale_max_dim_1.8
+tammy_campos_254_269.mp4,tammy_campos,254,269,15,"upper_body,full_body",Male,46-50,165,49,White,uniform_scale_max_dim_1.8

@@ -1,0 +1,3 @@
+level,condition,n_units,statistic,r,t_statistic,df,note
+clip,upper_body,18,Pearson_r,0.587,2.9,16,prop_guessed_male vs mean_height_response_midpoint
+clip,full_body,18,Pearson_r,0.6921,3.835,16,prop_guessed_male vs mean_height_response_midpoint
