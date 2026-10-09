@@ -136,6 +136,7 @@ move together, not the order in which observers made them.
 ## Citation
 
 If you use these materials, please cite our paper:
+> **Note:** The paper will appear in the ISMAR 2026 Adjunct Proceedings. The DOI and page numbers are not yet available; we will update this entry once they are published.
 
 ```bibtex
 @inproceedings{liu2026fullbody,
